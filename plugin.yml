@@ -1,0 +1,12 @@
+name: Shop
+main: me.xCro.Shop.Main
+version: 1.0
+author: xCro
+commands:
+  crystalmerchant:
+    aliases: [cm]
+    description: opens the gui
+    useage: /<command>
+  crystalmerchant reload:
+    description: reloads the plugin
+    useage: /<command>
